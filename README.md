@@ -59,19 +59,11 @@ I am a **QA Automation Engineer with 6+ years of experience** in designing and m
 ## 🚀 Featured Projects  
 
 ### 🔹 Selenium Automation Framework (Java/C#)  
-A reusable automation framework built with **Page Object Model**, integrated with **Azure DevOps CI/CD pipelines**.  
-- Regression coverage improved by 30%.  
-- Includes modular test cases for UI and API testing.  
-👉 [View Repository](#) *(replace with your repo link)*  
+👉 [View Repository](https://github.com/Sudhasmita/SeleniumAutomationFramework2025)  
 
-### 🔹 API Testing with Postman  
-Collection of automated API test cases validating REST endpoints.  
-- Covers authentication, CRUD operations, and error handling.  
-👉 [View Repository](#)  
+👉 [View Repository](https://github.com/Sudhasmita/TestProject1)    
 
-### 🔹 SQL + Power BI Dashboard  
-Designed queries and dashboards to analyze test execution metrics and defect trends.  
-👉 [View Repository](#)  
+ 
 
 ---
 
