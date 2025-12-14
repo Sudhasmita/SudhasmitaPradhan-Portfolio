@@ -75,7 +75,7 @@ A sample project showcasing structured test cases and framework setup for UI tes
 ---
 
 ## 📈 GitHub Stats  
-![Sudhasmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhasmitaPradhan&show_icons=true&theme=radical)  
+![Sudhasmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhasmita&show_icons=true&theme=radical)
 
 ---
 
