@@ -76,13 +76,3 @@ A sample project showcasing structured test cases and framework setup for UI tes
 
 ## 📈 GitHub Stats  
 ![Sudhasmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhasmita&show_icons=true&theme=radical)
-
----
-
-## ✨ How to Use This Portfolio  
-- Create a **new GitHub repository** named `SudhasmitaPradhan-Portfolio`.  
-- Add this content to the **README.md** file.  
-- Link your featured projects (Selenium framework, Postman collections, SQL dashboards).  
-- Keep updating with new projects, interview prep exercises, or Playwright experiments.  
-# SudhasmitaPradhan-Portfolio
-QA Automation Engineer Portfolio – Projects, Frameworks, and Case Studies.
