@@ -1,4 +1,4 @@
-# 🌟 Sudhasmita Pradhan – QA Automation Engineer  
+#  Sudhasmita Pradhan – QA Automation Engineer  
 
 🔗 [LinkedIn](https://linkedin.com/in/sudhasmita-pradhan)  
 📧 sudhasmita1995@gmail.com  
